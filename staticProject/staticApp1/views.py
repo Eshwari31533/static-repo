@@ -2,7 +2,7 @@ from django.shortcuts import render
 
 # Create your views here.
 def view1(request):
-    myName="Rahul"
+    myName="Eshwari"
     favPlayer="Dhoni"
     favAnimal="Lion"
     favSubject="python"
